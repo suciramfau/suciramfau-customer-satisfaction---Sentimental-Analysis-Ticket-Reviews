@@ -38,21 +38,17 @@ The analysis is supported by an interactive **Power BI dashboard** and a reprodu
 
 ---
 
-## 🧮 Metrics & Formulas
+## Metrics & Formulas
 - **CSAT (%)**  
-  \[
-  \text{CSAT} = \frac{\sum rating}{(\text{count of respondents} \times 5)} \times 100
-  \]
+  <img width="500" height="50" alt="image" src="https://github.com/user-attachments/assets/c0140f56-4e05-4bf9-9812-97f17b54f1cc" />
 
 - **CES (%)**  
-  \[
-  \text{CES} = \frac{\text{average ease\_of\_use}}{5} \times 100
-  \]
+   <img width="350" height="50" alt="image" src="https://github.com/user-attachments/assets/d47950aa-314e-4bfa-8632-7d4ffd7094b9" />
+
 
 - **NPS**  
-  \[
-  \text{NPS} = \%Promoters (9–10) - \%Detractors (0–6)
-  \]
+    <img width="200" height="50" alt="image" src="https://github.com/user-attachments/assets/c0d4cbac-dada-4524-ba73-66fb4d89cf3d" />
+
 
 - **Sentiment Analysis**  
   Lexicon-based sentiment classification (positive vs negative), with potential extension to:
@@ -61,7 +57,7 @@ The analysis is supported by an interactive **Power BI dashboard** and a reprodu
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **Python** (Google Colab)
   - pandas, numpy
   - matplotlib, seaborn
@@ -73,7 +69,7 @@ The analysis is supported by an interactive **Power BI dashboard** and a reprodu
 
 ---
 
-## 🔍 Analysis Workflow
+## Analysis Workflow
 1. **Data Cleaning & Preprocessing**
    - Filter valid survey responses
    - Handle missing values
@@ -115,14 +111,14 @@ The analysis is supported by an interactive **Power BI dashboard** and a reprodu
 
 ## Repository Structure
 
-
+<img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/76c1f811-7adf-4ead-ad4a-38187aa0aac2" />
 
 ---
 
 ## Deliverables
-- Python notebook (.ipynb)
-- Power BI dashboard
-- Presentation slides (optional)
-- Project summary (Notion)
+- [Python notebook](https://github.com/suciramfau/suciramfau-customer-satisfaction---Sentimental-Analysis-Ticket-Reviews/blob/main/notebooks/DS35_Suciramfau_customer_satisfaction_sentiment_analysis.ipynb)
+- [Power BI dashboard](https://github.com/suciramfau/suciramfau-customer-satisfaction---Sentimental-Analysis-Ticket-Reviews/blob/main/dashboard/powerbi_dashboard.png)
+- [Presentation slides](https://github.com/suciramfau/suciramfau-customer-satisfaction---Sentimental-Analysis-Ticket-Reviews/blob/main/slides/Suciramfau_customer_satisfaction_sentiment_analysis.pdf)
+- [Project summary](https://www.notion.so/Project-Summary-2cb2490fec6480a3b4ece83c7dee5c96)
 
 ---
